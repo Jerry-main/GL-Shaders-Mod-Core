@@ -1,0 +1,3 @@
+rootProject.name = "ShadersMod-v2.7.1mc1.12-dev"
+
+include("app")
