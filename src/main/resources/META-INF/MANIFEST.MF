@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: shadersmod.installer.Installer
+TweakClass: shadersmod.launch.SMCTweaker
+TweakOrder: 900
